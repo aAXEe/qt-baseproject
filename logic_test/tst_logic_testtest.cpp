@@ -22,7 +22,7 @@ void Logic_testTest::testCase1()
 {
     Logic l;
     QCOMPARE(l.add(1,1), 2);
-    QCOMPARE(l.add(1,1), 3);
+    //QCOMPARE(l.add(1,1), 3);
 
 }
 
